@@ -1,2 +1,7 @@
-# repo-172-Groq-Gemini-Custom-PDf-Chatbot
-here giving the documentation for using Groq , langchain ,gemini
+# Q&A ChatBot
+## Gemma 7b model using groq API
+## Demo
+https://github.com/user-attachments/assets/4fe90ec3-71f0-412e-8cb8-5e4aa20948e1
+
+# for running:
+streamlit run app.py
